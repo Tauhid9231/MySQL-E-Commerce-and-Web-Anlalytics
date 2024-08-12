@@ -1,8 +1,4 @@
-# MySQL-E-Commerce-and-Web-Anlalytics
-This project used data from the Maven Analytics Advanced SQL course, including website sessions, pageviews, orders, and product data. It focused on optimizing marketing channels and improving website perfromance by analyzing bounce rates, conversion rates, and A/B testing with a new custom lander.
-
-
-# Project Details
+#### Project Description:
 This project focused on analyzing traffic sources to optimize marketing channels for an eCommerce site. It involved adjusting bids and optimizing strategies for different devices to improve performance. Bounce rate and conversion funnel analyses were also conducted, followed by an A/B test of a new billing page ('/billing-2') to assess its impact on conversion rates.
 
 # Key Learnings:
