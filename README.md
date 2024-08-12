@@ -1,7 +1,7 @@
-#### Project Description:
+# Project Description:
 This project focused on analyzing traffic sources to optimize marketing channels for an eCommerce site. It involved adjusting bids and optimizing strategies for different devices to improve performance. Bounce rate and conversion funnel analyses were also conducted, followed by an A/B test of a new billing page ('/billing-2') to assess its impact on conversion rates.
 
-# Key Learnings:
+## Key Learnings:
 
 -- > Bid Optimization: Gained experience in adjusting bids based on campaign performance and device-specific data.
 
@@ -9,7 +9,7 @@ This project focused on analyzing traffic sources to optimize marketing channels
 
 -- > A/B Testing: Applied A/B testing techniques to evaluate and implement effective changes to landing pages.
 
-# Results:
+## Results:
 
 -- > Session Volume: Achieved a 19% increase in session volume through optimized bids and device-specific strategies.
 
